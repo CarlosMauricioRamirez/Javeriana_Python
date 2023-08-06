@@ -1,2 +1,0 @@
-# Javeriana_Python
-Informatica
